@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathBuilder", "PathBuilder\PathBuilder.csproj", "{6CEAE7FA-F218-462D-9233-9B7A3E0A3CD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEAE7FA-F218-462D-9233-9B7A3E0A3CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEAE7FA-F218-462D-9233-9B7A3E0A3CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEAE7FA-F218-462D-9233-9B7A3E0A3CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEAE7FA-F218-462D-9233-9B7A3E0A3CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C7189E-6B9F-40BA-A3DD-3A9B8586583A}
+	EndGlobalSection
+EndGlobal
